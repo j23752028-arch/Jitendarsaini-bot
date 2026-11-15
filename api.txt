@@ -1,0 +1,1 @@
+https://ff-like-gg.vercel.app/like?uid={uid}&region={region}&key=SAINI
